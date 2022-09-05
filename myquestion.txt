@@ -1,0 +1,5 @@
+We had knowledge transfer on claim segmentation projects, which involves both claim complexity and claim severity module, I have a better understanding of claim complexity model now. I am enriching the claim segmentation wiki page, but there still exists a couple of questions and thoughts like
+1.	The severity model, although not touched by we data scientists at SAIF, of which the code base is stored in \\Slmfs1\salemdev\BDS_CLMSEG\Final_Deliverables\Severity Module, do you know where is this directory?
+2.	I saw SQL procedures in bdsqa9 ANALYTICS_DB, but I am not able to access it. And Shri said the inference procedures are under another database, can you direct me to the right place?
+3.	want to talk about know issues and the status of migrating claim complexity module to databricks.
+4.	talk about future maintenance/monitoring plan - does severity module also need to be migrated? how hard will the model monitoring be? any scheduled recalibration/retraining? just random talk and note them down, I think this year we may just start with migrating claim complexity module
