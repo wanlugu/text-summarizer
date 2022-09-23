@@ -6,7 +6,7 @@ Impact
 Summarization systems often have additional evidence they can utilize in order to specify the most important topics of document(s). For example, when summarizing blogs, there are discussions or comments coming after the blog post that are good sources of information to determine which parts of the blog are critical and interesting. In scientific paper summarization, there is a considerable amount of information such as cited papers and conference information which can be leveraged to identify important sentences in the original paper.
 
 There are mainly two types of text summarization, i.e. Abstractive Summarization and Extractive Summarization
-Abstractive Summarization: select words based on semantic understanding, even those words did not appear in the source documents. It can be correlated to the way human reads a text article or blog post and then summarizes in their own word.
+1. Abstractive Summarization: select words based on semantic understanding, even those words did not appear in the source documents. It can be correlated to the way human reads a text article or blog post and then summarizes in their own word.
 
 Input document → understand context → semantics → create own summary.
 
